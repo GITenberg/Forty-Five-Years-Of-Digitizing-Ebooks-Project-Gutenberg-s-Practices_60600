@@ -1,11 +1,16 @@
 _repo: Forty-Five-Years-Of-Digitizing-Ebooks-Project-Gutenberg-s-Practices_60600
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60600-h/images/cover.jpg
 creator:
   author:
     agent_name: Newby, Gregory B.
     gutenberg_agent_id: '51045'
     url: http://www.gutenberg.org/2009/agents/51045
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60600#Forty-Five-Years-Of-Digitizing-Ebooks-Project-Gutenberg-s-Practices
 gutenberg_issued: '2019-10-18'
 gutenberg_type: Text
 identifiers:
